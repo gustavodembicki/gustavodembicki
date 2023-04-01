@@ -35,7 +35,9 @@ I'm Gustavo Dembicki and I work with programming since 2020 and actually I'm Sof
 
 ## Social Media
 
-<a href="https://www.linkedin.com/in/gustavo-felipe-dembicki-78319819b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div style="display: inline-block;">
+  <a href="https://www.linkedin.com/in/gustavo-felipe-dembicki-78319819b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 &nbsp;
 
