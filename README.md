@@ -1,6 +1,6 @@
 ## Greetings
 
-I'm Gustavo Dembicki and I work with programming since 2020 and actually I'm Software Engineer Jr.
+I'm Gustavo Dembicki, I work with programming since 2020 and actually I'm a Software Engineer Jr.
 
 &nbsp;
 
