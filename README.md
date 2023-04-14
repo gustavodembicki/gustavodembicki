@@ -14,7 +14,7 @@ I'm Gustavo Dembicki, I work with programming since 2020 and actually I'm a Soft
 > If you want to talk about fragile topic, I'll respect your opinion and I would like to be respected too.
 &nbsp;
 
-🌝 And that is it, if you want to talk a bit more and know me better, just call me! I'll appreciate to talk and share my experiences with you.
+🌝 And that's it, if you want to talk a bit more and know me better, just call me! I'll appreciate to talk and share my experiences with you.
 
 &nbsp;
 
